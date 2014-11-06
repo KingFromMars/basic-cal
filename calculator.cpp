@@ -1,4 +1,5 @@
-/* Building the Calculator */
+/* Building the Calculator 
+created by Luis Hernandez*/
 
 #include <iostream>
 
