@@ -1,4 +1,4 @@
-/* Building the Calculator 
+/* Building a basic calculator as my fisrt c++ project 
 created by Luis Hernandez*/
 
 #include <iostream>
